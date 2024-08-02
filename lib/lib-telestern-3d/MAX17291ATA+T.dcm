@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX17291ATA+T
+D High-Voltage, 1A Micropower Boost Converter with Short-Circuit Protection and True Shutdown
+K
+F https://datasheets.maximintegrated.com/en/ds/MAX17291.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM293QT
+D STMICROELECTRONICS - LM293QT - Analogue Comparator, Low Power, 2 Comparators, 300 ns, 2V to 36V, +/- 1V to +/- 18V, UFSON, 8 Pins
+K
+F https://future.componentsearchengine.com/Datasheets/2/LM293QT.pdf
+$ENDCMP
+#
+#End Doc Library

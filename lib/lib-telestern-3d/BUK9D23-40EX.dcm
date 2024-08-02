@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BUK9D23-40EX
+D MOSFET BUK9D23-40E/SOT1220 SOT1220
+K
+F https://componentsearchengine.com/Datasheets/2/BUK9D23-40EX.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ298215RUGR
+D Battery Management High-side protector for single-cell li-ion and li-polymer batteries with 0V Charge disabled 8-X2QFN -40 to 85
+K
+F https://www.arrow.com/en/products/bq298215rugr/texas-instruments?region=nac
+$ENDCMP
+#
+#End Doc Library
